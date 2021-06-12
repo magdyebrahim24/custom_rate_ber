@@ -58,7 +58,7 @@ RatingBar(
 ## Usage :
 usage code in [main.dart](/lib/main.dart) file .
 
-you can see rate bar build code in [rate_bar.dart](\lib\rate_bar\rate_bar.dart) file .
+you can see rate bar build code in [rate_bar.dart](/lib/rate_bar/rate_bar.dart) file .
 
 <br><hr><br>
 
