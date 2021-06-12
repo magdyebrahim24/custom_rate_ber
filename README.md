@@ -6,7 +6,7 @@ have glow property and gesture or tap mode .
 
 
 ## App Preview 
-![Image of app](/assets/app-gif.gif)
+![Image of app](/assets/app-gif.gif | width=200 | height=200)
 <br><hr><br>
 
 ## features
