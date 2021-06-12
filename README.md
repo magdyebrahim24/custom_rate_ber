@@ -6,8 +6,8 @@ have glow property and gesture or tap mode .
 
 
 ## App Preview 
-<img src="/assets/app-gif.gif" alt="app preview image" width="200" height="200">
-![Image of app](/assets/app-gif.gif =250x250)
+<img src="/assets/app-gif.gif" alt="app preview image" width="300" height="500">
+
 <br><hr><br>
 
 ## features
